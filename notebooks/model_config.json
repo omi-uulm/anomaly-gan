@@ -1,0 +1,7 @@
+{
+    "architecture": "TCN",
+    "channels": 20,
+    "num_layers": 2,
+    "kernel_size": 5,
+    "dropout": 0.5
+}
